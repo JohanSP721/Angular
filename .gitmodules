@@ -1,3 +1,3 @@
 [submodule "01-bases"]
 	path = 01-bases
-	url = ./01-bases
+	url = git@github.com:JohanSP721/01-bases.git
